@@ -1,0 +1,10 @@
+C:\Portal.WebApp\Portal.MetaData\bin\Debug\Portal.MetaData.dll
+C:\Portal.WebApp\Portal.MetaData\bin\Debug\Portal.MetaData.pdb
+C:\Portal.WebApp\Portal.MetaData\obj\Debug\Portal.MetaData.csproj.CoreCompileInputs.cache
+C:\Portal.WebApp\Portal.MetaData\obj\Debug\Portal.MetaData.dll
+C:\Portal.WebApp\Portal.MetaData\obj\Debug\Portal.MetaData.pdb
+C:\Portal\Portal.MetaData\bin\Debug\Portal.MetaData.dll
+C:\Portal\Portal.MetaData\bin\Debug\Portal.MetaData.pdb
+C:\Portal\Portal.MetaData\obj\Debug\Portal.MetaData.csproj.CoreCompileInputs.cache
+C:\Portal\Portal.MetaData\obj\Debug\Portal.MetaData.dll
+C:\Portal\Portal.MetaData\obj\Debug\Portal.MetaData.pdb
